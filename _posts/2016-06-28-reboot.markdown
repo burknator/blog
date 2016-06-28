@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Reboot"
+date:   2016-06-28 21:13:55 +0200
+---
+Nowadays everything gets a reboot.
