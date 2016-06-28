@@ -19,3 +19,8 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - emoji_for_jekyll
+  - liquid_pluralize
+  - liquid_reading_time
